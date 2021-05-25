@@ -23,6 +23,10 @@ something in mind.
 * Something with I.A. Maybe a bot who can complete a game by his own or 
 a boy chat.
 
+* I want to make some king of bot for Twitch where the bot shows a meme 
+with the vocal recognition, so you just have to say the name of the meme
+and the bot would show it to the viewers.
+
 ## ✉ Contact me 
 * LinkedIn: [https://www.linkedin.com/in/jacksonsan009/](https://www.linkedin.com/in/jacksonsan009/)
 * Email: JacksonSan009@hotmail.com
