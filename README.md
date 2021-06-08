@@ -1,11 +1,7 @@
 ## 🤵 Who I am 
 
-Hi, my name is Jackson Arango. I'm live in Medellín, Colombia.
-
-
-I have a degree in Software Development Technique from SENA.
-
-And I am doing a degree as a software development technologist from IU DIGITAL.
+Hi, my name is Jackson Arango. 
+I'm live in Medellín, Colombia.
 
 ## ⚙ What I'm doing 
 
