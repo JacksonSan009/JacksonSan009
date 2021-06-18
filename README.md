@@ -20,6 +20,8 @@ I plan to apply it in [E-commerce](https://github.com/JacksonSan009/E-commerce)
 with the vocal recognition, so you just have to say the name of the meme
 and the bot would show it to the viewers.
 
+* Made some Edge/Chrome extension.
+
 ## ✉ Contact me 
 * LinkedIn: [https://www.linkedin.com/in/jacksonsan009/](https://www.linkedin.com/in/jacksonsan009/)
 * Email: JacksonSan009@hotmail.com
