@@ -20,7 +20,8 @@ I plan to apply it in [E-commerce](https://github.com/JacksonSan009/E-commerce)
 with the vocal recognition, so you just have to say the name of the meme
 and the bot would show it to the viewers.
 
-* Made some Edge/Chrome extension.
+* Google Calendar Template extension. The idea is create a extension that to create events as templates, 
+that allow me to put the same event every time I need it, so that allow to make at routene, and also allow to add it automaticly for month. 
 
 ## ✉ Contact me 
 * LinkedIn: [https://www.linkedin.com/in/jacksonsan009/](https://www.linkedin.com/in/jacksonsan009/)
